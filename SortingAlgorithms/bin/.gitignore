@@ -1,2 +1,5 @@
-/fibonacci
-/binarySearch
+/bubbleSort
+/insertionSort
+/mergeSort
+/selectionSort
+/quickSort
